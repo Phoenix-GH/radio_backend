@@ -21,7 +21,7 @@
     "bson": "^0.4.20",
     "cookie-parser": "^1.4.0",
     "cron": "^1.1.0",
-    "express": "~4.0.0",
+    "express": "~4.17.1",
     "express-session": "^1.12.1",
     "express-sessions": "^1.0.5",
     "feed-read": "0.0.1",
