@@ -16,7 +16,7 @@
     "async": "^2.0.1",
     "aws-cloudfront-sign": "2.2.0",
     "aws-sdk": "2.60.0",
-    "bcrypt": "^0.8.7",
+    "bcrypt": "^5.0.0",
     "body-parser": "~1.0.1",
     "bson": "^0.4.20",
     "cookie-parser": "^1.4.0",
